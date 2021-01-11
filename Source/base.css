@@ -3,10 +3,10 @@
 /*---------------------------*/
 
 :root {
-   --status-width-large: 2px; /*Border width for large avatars status. Default - 2px*/
-   --status-width-small: 2px; /*Border width for small avatars status. Default - 2px*/
-   --status-spacing-large: 1px; /*Spacing between statuses and large avatars. Default - 1px*/
-   --status-spacing-small: 1px; /*Spacing between statuses and small avatars. Default - 1px*/
+   --status-width-large: 4px; /*Border width for large avatars status. Default - 2px*/
+   --status-width-small: 4px; /*Border width for small avatars status. Default - 2px*/
+   --status-spacing-large: 2px; /*Spacing between statuses and large avatars. Default - 1px*/
+   --status-spacing-small: 2px; /*Spacing between statuses and small avatars. Default - 1px*/
    --status-opacity-mobile: 0.6; /*Background opacity for "Online via Mobile" statuses. Default - 0.6*/
    --status-opacity-typing: 0.6; /*Background opacity for "Typing" indicators. Default - 0.6*/
    --status-color-online: #43b581; /*Color for "Online" statuses. Default - #43b581*/
